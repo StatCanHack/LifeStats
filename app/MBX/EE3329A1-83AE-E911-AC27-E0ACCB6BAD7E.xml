@@ -1,0 +1,251 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="EE3329A1-83AE-E911-AC27-E0ACCB6BAD7E" platform="MtMobile" defaultW="414" defaultH="736" measureW="414" measureH="736" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="28">
+    <control controlID="96B43CAB-83AE-E911-AC27-E0ACCB6BAD7E" controlTypeID="Panel" x="0" y="0" w="414" h="102" zOrder="0">
+      <color>4278235964</color>
+      <borderVisible>False</borderVisible>
+      <groupChildrenDescriptors>
+        <control controlID="90B53CAB-83AE-E911-AC27-E0ACCB6BAD7E" controlTypeID="StatusBar(IOS)" x="0" y="0" w="414" h="20" zOrder="0">
+          <color>4278235964</color>
+        </control>
+        <control controlID="4EB63CAB-83AE-E911-AC27-E0ACCB6BAD7E" controlTypeID="Image" x="169" y="24" w="77" h="72" zOrder="1">
+          <clipShapeType>SbEllipse</clipShapeType>
+          <URL>60196539E1D48442677CDD3CA82552A1.png</URL>
+        </control>
+        <control controlID="0CB73CAB-83AE-E911-AC27-E0ACCB6BAD7E" controlTypeID="Border" x="0" y="0" w="414" h="102" zOrder="2">
+          <borderVisible>False</borderVisible>
+          <alias>borderLayer</alias>
+        </control>
+      </groupChildrenDescriptors>
+      <thinkness>1</thinkness>
+    </control>
+    <control controlID="4CC8C1B1-83AE-E911-AC27-E0ACCB6BAD7E" controlTypeID="Icon" x="20" y="51" w="28" h="28" zOrder="1">
+      <color>4294967295</color>
+      <interactiveData>
+        <entry title="">
+          <area shape="0" alt="" ID="{D284B089-8EAE-E911-AC27-E0ACCB6BAD7E}" coords="(0,0,28,28)"/>
+          <events title="">
+            <event eventType="atClick" isChecked="True">
+              <behaviour title="" isChecked="True" isWait="False" isLoop="False" execMode="emParallel">
+                <target targetID="EC7B60FB-97AE-E911-AC27-E0ACCB6BAD7E" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Popup State Change" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="Value" value="2" varType="3" description=""/>
+                    <param name="AniType" value="0" varType="3" description=""/>
+                  </command>
+                </target>
+              </behaviour>
+            </event>
+          </events>
+        </entry>
+      </interactiveData>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62356</iconCode>
+      </icon>
+      <URL>F8C2434C2C958119B1E6150C97C501FA.svg</URL>
+    </control>
+    <control controlID="BC7DF476-84AE-E911-AC27-E0ACCB6BAD7E" controlTypeID="Label" x="166" y="118" w="40" h="18" zOrder="2">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Score%3A</text>
+      <textColor>4294940928</textColor>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="D0996A80-84AE-E911-AC27-E0ACCB6BAD7E" controlTypeID="TextArea" x="76" y="136" w="300" h="65" zOrder="3">
+      <font family="Zapfino" displayName="Zapfino" postScript="Zapfino" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Welcome+back%2C+Alex!+</text>
+      <textColor>4278235964</textColor>
+      <textSize>20</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="D0B7C7D2-84AE-E911-AC27-E0ACCB6BAD7E" controlTypeID="Label" x="20" y="627" w="54" h="18" zOrder="4">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Savings</text>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="82405ED9-84AE-E911-AC27-E0ACCB6BAD7E" controlTypeID="Label" x="175" y="627" w="46" h="18" zOrder="5">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Assets</text>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="0AD15AE2-84AE-E911-AC27-E0ACCB6BAD7E" controlTypeID="Label" x="329" y="627" w="31" h="18" zOrder="6">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Debt</text>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="A68587F1-84AE-E911-AC27-E0ACCB6BAD7E" controlTypeID="Label" x="216" y="118" w="16" h="18" zOrder="7">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>25</text>
+      <textColor>4294940928</textColor>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="5A91E1F8-9AAE-E911-AC27-E0ACCB6BAD7E" controlTypeID="Label" x="23" y="655" w="43" h="18" zOrder="8">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>$2%2C000</text>
+      <textColor>4278235964</textColor>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="5019F408-9BAE-E911-AC27-E0ACCB6BAD7E" controlTypeID="Label" x="318" y="655" w="51" h="18" zOrder="9">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>$30%2C000</text>
+      <textColor>4291572531</textColor>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="22F01813-9BAE-E911-AC27-E0ACCB6BAD7E" controlTypeID="Label" x="191" y="655" w="16" h="18" zOrder="10">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>$0</text>
+      <textColor>4294901760</textColor>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="9AF6FBBE-E7AE-E911-A5C8-28CFE94C6E8D" controlTypeID="Icon" x="10" y="127" w="24" h="24" zOrder="11">
+      <icon>
+        <ID/>
+        <iconFontName>jdFontAwesome</iconFontName>
+        <iconCode>61853</iconCode>
+      </icon>
+      <URL>0B4D7180A40D0F45F858B5A8911CAC50.svg</URL>
+    </control>
+    <control controlID="6617030C-E8AE-E911-A5C8-28CFE94C6E8D" controlTypeID="Label" x="154" y="482" w="115" h="29" zOrder="12">
+      <caption>Summary+</caption>
+      <opacity>0.800000011920929</opacity>
+      <font family="Damascus" displayName="Damascus+Semi+Bold" postScript="DamascusSemiBold" weightStyle="Semi+Bold" weight="600" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Summary</text>
+      <textSize>24</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="F217030C-E8AE-E911-A5C8-28CFE94C6E8D" controlTypeID="TextArea" x="23" y="529" w="132" h="29" zOrder="13">
+      <font family="Damascus" displayName="Damascus+Semi+Bold" postScript="DamascusSemiBold" weightStyle="Semi+Bold" weight="600" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Occupation+</text>
+      <textStyles>[fsBold]</textStyles>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="5618030C-E8AE-E911-A5C8-28CFE94C6E8D" controlTypeID="Label" x="23" y="558" w="71" h="17" zOrder="14">
+      <font family="Damascus" displayName="Damascus+Semi+Bold" postScript="DamascusSemiBold" weightStyle="Semi+Bold" weight="600" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Education</text>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="B018030C-E8AE-E911-A5C8-28CFE94C6E8D" controlTypeID="Label" x="23" y="585" w="65" h="20" zOrder="15">
+      <font family="Damascus" displayName="Damascus+Semi+Bold" postScript="DamascusSemiBold" weightStyle="Semi+Bold" weight="600" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Living+In+</text>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="0A19030C-E8AE-E911-A5C8-28CFE94C6E8D" controlTypeID="TextArea" x="288" y="529" w="88" h="29" zOrder="16">
+      <font family="Damascus" displayName="Damascus+Light" postScript="DamascusLight" weightStyle="Light" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Unemployed%0A+</text>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="6E19030C-E8AE-E911-A5C8-28CFE94C6E8D" controlTypeID="TextArea" x="224" y="558" w="152" h="29" zOrder="17">
+      <font family="Damascus" displayName="Damascus+Light" postScript="DamascusLight" weightStyle="Light" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Bachelor+of+Commerce</text>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="C819030C-E8AE-E911-A5C8-28CFE94C6E8D" controlTypeID="TextArea" x="324" y="587" w="52" h="29" zOrder="18">
+      <font family="Damascus" displayName="Damascus+Light" postScript="DamascusLight" weightStyle="Light" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Ontario%0A</text>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="9412D436-F5AE-E911-A54F-28CFE94C6E8D" controlTypeID="Image" x="45" y="193" w="302" h="279" zOrder="19">
+      <URL>52BC0D63743089A3576441537732C3D8.png</URL>
+    </control>
+    <control controlID="EC7B60FB-97AE-E911-AC27-E0ACCB6BAD7E" controlTypeID="PopupPanel" x="-68" y="45" w="46" h="46" zOrder="20">
+      <groupChildrenDescriptors>
+        <control controlID="407D60FB-97AE-E911-AC27-E0ACCB6BAD7E" controlTypeID="Panel" x="0" y="0" w="414" h="736" zOrder="0">
+          <locked>True</locked>
+          <color>1879048192</color>
+          <borderVisible>False</borderVisible>
+          <canMove>False</canMove>
+          <alias>background</alias>
+          <groupChildrenDescriptors>
+            <control controlID="AE7D60FB-97AE-E911-AC27-E0ACCB6BAD7E" controlTypeID="Border" x="0" y="0" w="414" h="736" zOrder="0">
+              <borderVisible>False</borderVisible>
+              <alias>borderLayer</alias>
+            </control>
+          </groupChildrenDescriptors>
+          <thinkness>1</thinkness>
+        </control>
+        <control controlID="127E60FB-97AE-E911-AC27-E0ACCB6BAD7E" controlTypeID="PopupPanelContent" x="0" y="102" w="200" h="202" zOrder="1">
+          <color>16777215</color>
+          <alias>content</alias>
+          <groupChildrenDescriptors>
+            <control controlID="767E60FB-97AE-E911-AC27-E0ACCB6BAD7E" controlTypeID="Menu" x="0" y="0" w="200" h="202" zOrder="0">
+              <borderColor>4293190884</borderColor>
+              <isCommentCom>True</isCommentCom>
+              <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+                <link targetPageID="EE3329A1-83AE-E911-AC27-E0ACCB6BAD7E" linkType="ltPageLink" isApplyIncludePage="False" title="Dashboard">
+                  <area shape="0" alt="" ID="{72FDC5BB-65AE-E911-AC27-E0ACCB6BAD7E}" coords="(0,0,200,25)"/>
+                </link>
+                <link targetPageID="A8794E9F-97AE-E911-AC27-E0ACCB6BAD7E" linkType="ltPageLink" isApplyIncludePage="False" title="Leaderboard">
+                  <area shape="0" alt="" ID="{5E0CC6BB-65AE-E911-AC27-E0ACCB6BAD7E}" coords="(0,25,200,50)"/>
+                </link>
+                <link targetPageID="4062C205-65AE-E911-AC27-E0ACCB6BAD7E" linkType="ltPageLink" isApplyIncludePage="False" title="New+Life+Event">
+                  <area shape="0" alt="" ID="{300DC6BB-65AE-E911-AC27-E0ACCB6BAD7E}" coords="(0,50,200,75)"/>
+                </link>
+                <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Open+Saved+Table">
+                  <area shape="0" alt="" ID="{E40DC6BB-65AE-E911-AC27-E0ACCB6BAD7E}" coords="(0,75,200,100)"/>
+                </link>
+                <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="">
+                  <area shape="0" alt="" ID="{8E0EC6BB-65AE-E911-AC27-E0ACCB6BAD7E}" coords="(0,0,0,0)"/>
+                </link>
+                <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="---">
+                  <area shape="0" alt="" ID="{420FC6BB-65AE-E911-AC27-E0ACCB6BAD7E}" coords="(0,0,0,0)"/>
+                </link>
+                <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="View+Job+Experience">
+                  <area shape="0" alt="" ID="{EC0FC6BB-65AE-E911-AC27-E0ACCB6BAD7E}" coords="(0,102,200,127)"/>
+                </link>
+                <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="View+Education">
+                  <area shape="0" alt="" ID="{9610C6BB-65AE-E911-AC27-E0ACCB6BAD7E}" coords="(0,127,200,152)"/>
+                </link>
+                <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Budgeting">
+                  <area shape="0" alt="" ID="{4011C6BB-65AE-E911-AC27-E0ACCB6BAD7E}" coords="(0,152,200,177)"/>
+                </link>
+                <link targetPageID="A605C70D-45AE-E911-A430-28CFE94C6E8D" linkType="ltPageLink" isApplyIncludePage="False" title="Sign+Out">
+                  <area shape="0" alt="" ID="{F411C6BB-65AE-E911-AC27-E0ACCB6BAD7E}" coords="(0,177,200,202)"/>
+                </link>
+              </links>
+              <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <text>Dashboard%0ALeaderboard%0ANew+Life+Event%0AOpen+Saved+Table%0A%0A---%0AView+Job+Experience%0AView+Education%0ABudgeting%0ASign+Out</text>
+              <textSize>14</textSize>
+              <lineSpacing>0</lineSpacing>
+              <selectedIndex>-1</selectedIndex>
+              <selectedColor>4291611852</selectedColor>
+              <separatorColor>4293190884</separatorColor>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294111986</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

@@ -1,0 +1,30 @@
+﻿<master version="5.3" minAllowVersion="5.3" ID="70EA584A-68AE-E911-AC27-E0ACCB6BAD7E">
+  <controls>
+    <control controlID="E2A1574A-68AE-E911-AC27-E0ACCB6BAD7E" controlTypeID="Master" x="62" y="192" w="300" h="146" zOrder="2" masterID="70EA584A-68AE-E911-AC27-E0ACCB6BAD7E">
+      <groupChildrenDescriptors>
+        <control controlID="28EFB226-66AE-E911-AC27-E0ACCB6BAD7E" controlTypeID="Panel" x="0" y="0" w="300" h="146" zOrder="0">
+          <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+            <link targetPageID="C6587523-68AE-E911-AC27-E0ACCB6BAD7E" linkType="ltPageLink" isApplyIncludePage="False" title="Add+Education">
+              <area shape="0" alt="" ID="{7C0E3728-68AE-E911-AC27-E0ACCB6BAD7E}" coords="(0,0,300,146)"/>
+            </link>
+          </links>
+          <groupChildrenDescriptors>
+            <control controlID="361BFF31-66AE-E911-AC27-E0ACCB6BAD7E" controlTypeID="List" x="0" y="0" w="300" h="147" zOrder="0">
+              <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <text>Add+Education%0AAdd+Occupation%0APurchase+Home%0A</text>
+              <textSize>14</textSize>
+              <lineSpacing>0</lineSpacing>
+              <selectedColor>4278235964</selectedColor>
+              <itemHeight>48</itemHeight>
+              <showSeparator>True</showSeparator>
+            </control>
+            <control controlID="C42AB326-66AE-E911-AC27-E0ACCB6BAD7E" controlTypeID="Border" x="0" y="0" w="300" h="146" zOrder="1">
+              <alias>borderLayer</alias>
+            </control>
+          </groupChildrenDescriptors>
+          <thinkness>1</thinkness>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</master>

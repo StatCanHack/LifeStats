@@ -1,0 +1,92 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="A605C70D-45AE-E911-A430-28CFE94C6E8D" platform="MtMobile" defaultW="414" defaultH="736" measureW="414" measureH="736" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="11">
+    <control controlID="FCA1E3FB-29AE-E911-B7CA-28CFE94C6E8D" controlTypeID="StatusBar(IOS)" x="0" y="0" w="414" h="20" zOrder="0">
+      <color>4278235964</color>
+    </control>
+    <control controlID="DA6E0A66-2AAE-E911-B7CA-28CFE94C6E8D" controlTypeID="Image" x="98" y="229" w="216" h="216" zOrder="1">
+      <clipShapeType>SbEllipse</clipShapeType>
+      <URL>60196539E1D48442677CDD3CA82552A1.png</URL>
+    </control>
+    <control controlID="F0483934-38AE-E911-B7CA-28CFE94C6E8D" controlTypeID="Image" x="154" y="636" w="103" h="29" zOrder="2">
+      <URL>BD6CB4721104392633C6A507B2D4118A.png</URL>
+    </control>
+    <control controlID="36D5D0A1-38AE-E911-B7CA-28CFE94C6E8D" controlTypeID="Label" x="80" y="675" w="123" h="16" zOrder="3">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Terms+and+conditions</text>
+      <textColor>4294967295</textColor>
+      <textSize>13</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsUnderline]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="923B7AE5-38AE-E911-B7CA-28CFE94C6E8D" controlTypeID="Label" x="218" y="675" w="116" h="16" zOrder="4">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Privacy+and+cookies</text>
+      <textColor>4294967295</textColor>
+      <textSize>13</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsUnderline]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="72844A1E-39AE-E911-B7CA-28CFE94C6E8D" controlTypeID="Label" x="192" y="701" w="29" h="16" zOrder="5">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>1.0.0</text>
+      <textColor>4294967295</textColor>
+      <textSize>13</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="74821934-45AE-E911-A430-28CFE94C6E8D" controlTypeID="Label" x="121" y="120" w="183" h="22" zOrder="6">
+      <font family="Damascus" displayName="Damascus+Light" postScript="DamascusLight" weightStyle="Light" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>live+life+by+the+numbers+</text>
+      <textColor>4294967295</textColor>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="B045AA53-45AE-E911-A430-28CFE94C6E8D" controlTypeID="Label" x="71" y="40" w="295" h="86" zOrder="7">
+      <font family="Damascus" displayName="Damascus+Light" postScript="DamascusLight" weightStyle="Light" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>LifeStats</text>
+      <textColor>4294967295</textColor>
+      <textSize>72</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="A25C77C3-45AE-E911-A430-28CFE94C6E8D" controlTypeID="Panel" x="79" y="469" w="255" h="50" zOrder="8">
+      <color>4278229042</color>
+      <borderColor>4278235964</borderColor>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="CA085C2D-28AE-E911-B7CA-28CFE94C6E8D" linkType="ltPageLink" isApplyIncludePage="False" title="Home">
+          <area shape="0" alt="" ID="{EE8377C3-45AE-E911-A430-28CFE94C6E8D}" coords="(0,0,255,50)"/>
+        </link>
+      </links>
+      <groupChildrenDescriptors>
+        <control controlID="4AB687CF-45AE-E911-A430-28CFE94C6E8D" controlTypeID="Label" x="89" y="14" w="86" h="24" zOrder="0">
+          <font family="Damascus" displayName="Damascus+Light" postScript="DamascusLight" weightStyle="Light" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+          <text>Welcome</text>
+          <textColor>4294967295</textColor>
+          <textSize>20</textSize>
+          <lineSpacing>0</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="9C5D77C3-45AE-E911-A430-28CFE94C6E8D" controlTypeID="Border" x="0" y="0" w="255" h="50" zOrder="1">
+          <borderColor>4278235964</borderColor>
+          <alias>borderLayer</alias>
+        </control>
+      </groupChildrenDescriptors>
+      <thinkness>1</thinkness>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4278235964</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

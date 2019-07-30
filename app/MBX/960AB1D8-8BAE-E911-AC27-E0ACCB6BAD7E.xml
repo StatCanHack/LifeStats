@@ -1,0 +1,22 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="960AB1D8-8BAE-E911-AC27-E0ACCB6BAD7E" platform="MtMobile" defaultW="414" defaultH="736" measureW="414" measureH="736" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="1">
+    <control controlID="FC6D3F2B-8CAE-E911-AC27-E0ACCB6BAD7E" controlTypeID="AvatarEx2" x="140" y="211" w="120" h="120" zOrder="0">
+      <borderVisible>False</borderVisible>
+      <avatarType>Doctor</avatarType>
+      <avatarColorStyle>asGray</avatarColorStyle>
+      <avatarShapeStyle>asCircle</avatarShapeStyle>
+      <icon>
+        <ID/>
+        <iconFontName>jdiconfontB</iconFontName>
+        <iconCode>59651</iconCode>
+      </icon>
+      <URL>B64512564078BE31571E4B8E32EDD2AD.svg</URL>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294111986</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

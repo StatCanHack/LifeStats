@@ -1,0 +1,238 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="8AB60CB3-92AE-E911-AC27-E0ACCB6BAD7E" platform="MtMobile" defaultW="414" defaultH="736" measureW="414" measureH="736" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="22">
+    <control controlID="1A8A1EF7-92AE-E911-AC27-E0ACCB6BAD7E" controlTypeID="Panel" x="0" y="0" w="414" h="102" zOrder="0">
+      <color>4278235964</color>
+      <borderVisible>False</borderVisible>
+      <groupChildrenDescriptors>
+        <control controlID="9C8A1EF7-92AE-E911-AC27-E0ACCB6BAD7E" controlTypeID="StatusBar(IOS)" x="0" y="0" w="414" h="20" zOrder="0">
+          <color>4278235964</color>
+        </control>
+        <control controlID="008B1EF7-92AE-E911-AC27-E0ACCB6BAD7E" controlTypeID="Image" x="169" y="24" w="77" h="72" zOrder="1">
+          <clipShapeType>SbEllipse</clipShapeType>
+          <URL>60196539E1D48442677CDD3CA82552A1.png</URL>
+        </control>
+        <control controlID="648B1EF7-92AE-E911-AC27-E0ACCB6BAD7E" controlTypeID="Border" x="0" y="0" w="414" h="102" zOrder="2">
+          <borderVisible>False</borderVisible>
+          <alias>borderLayer</alias>
+        </control>
+      </groupChildrenDescriptors>
+      <thinkness>1</thinkness>
+    </control>
+    <control controlID="BC16D903-93AE-E911-AC27-E0ACCB6BAD7E" controlTypeID="Icon" x="20" y="51" w="28" h="28" zOrder="1">
+      <color>4294967295</color>
+      <interactiveData>
+        <entry title="">
+          <area shape="0" alt="" ID="{042ED903-93AE-E911-AC27-E0ACCB6BAD7E}" coords="(0,0,28,28)"/>
+          <events title="">
+            <event eventType="atClick" isChecked="True">
+              <behaviour title="" isChecked="True" isWait="False" isLoop="False" execMode="emParallel">
+                <target targetID="024E00CE-97AE-E911-AC27-E0ACCB6BAD7E" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Popup State Change" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="Value" value="2" varType="3" description=""/>
+                    <param name="AniType" value="0" varType="3" description=""/>
+                  </command>
+                </target>
+              </behaviour>
+            </event>
+          </events>
+        </entry>
+      </interactiveData>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62356</iconCode>
+      </icon>
+      <URL>F8C2434C2C958119B1E6150C97C501FA.svg</URL>
+    </control>
+    <control controlID="2EB52A24-93AE-E911-AC27-E0ACCB6BAD7E" controlTypeID="TextArea" x="22" y="154" w="372" h="269" zOrder="2">
+      <opacity>0.800000011920929</opacity>
+      <font family="Rockwell" displayName="Rockwell" postScript="Rockwell-Regular" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%0ANot+too+shortly+after+graduation+you+manage+to+land+yourself+a+job!+%0A%0A%0A</text>
+      <textColor>4278235964</textColor>
+      <textSize>16</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="4C2256CC-93AE-E911-AC27-E0ACCB6BAD7E" controlTypeID="TextArea" x="22" y="248" w="372" h="96" zOrder="3">
+      <opacity>0.800000011920929</opacity>
+      <font family="Rockwell" displayName="Rockwell" postScript="Rockwell-Regular" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>After+your+training+and+probationary+period%2C+a+year+goes+by.+You+have+officially+began+your+professional+career+at+the+age+of+23.++%0A</text>
+      <textColor>4278235964</textColor>
+      <textSize>16</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="ECA2C3E3-93AE-E911-AC27-E0ACCB6BAD7E" controlTypeID="TextArea" x="11" y="331" w="372" h="92" zOrder="4">
+      <opacity>0.800000011920929</opacity>
+      <font family="Rockwell" displayName="Rockwell" postScript="Rockwell-Regular" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%0AHere+is+your+scorecard+from+this+life+event%3A</text>
+      <textSize>16</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="161BAE2E-94AE-E911-AC27-E0ACCB6BAD7E" controlTypeID="TextArea" x="11" y="398" w="90" h="50" zOrder="5">
+      <opacity>0.800000011920929</opacity>
+      <font family="Rockwell" displayName="Rockwell" postScript="Rockwell-Regular" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%0ACareer%3A</text>
+      <textColor>4278235964</textColor>
+      <textSize>16</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="967DE645-94AE-E911-AC27-E0ACCB6BAD7E" controlTypeID="TextArea" x="11" y="473" w="105" h="50" zOrder="6">
+      <opacity>0.800000011920929</opacity>
+      <font family="Rockwell" displayName="Rockwell" postScript="Rockwell-Regular" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%0AOccupation%3A</text>
+      <textColor>4278235964</textColor>
+      <textSize>16</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="40D40C4C-94AE-E911-AC27-E0ACCB6BAD7E" controlTypeID="TextArea" x="19" y="626" w="90" h="50" zOrder="7">
+      <opacity>0.800000011920929</opacity>
+      <font family="Rockwell" displayName="Rockwell+Bold" postScript="Rockwell-Bold" weightStyle="Bold" weight="700" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%0ATOTAL+POINTS%3A</text>
+      <textColor>4278235964</textColor>
+      <textSize>16</textSize>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="52742257-94AE-E911-AC27-E0ACCB6BAD7E" controlTypeID="TextArea" x="101" y="633" w="43" h="50" zOrder="8">
+      <opacity>0.800000011920929</opacity>
+      <font family="Rockwell" displayName="Rockwell+Bold" postScript="Rockwell-Bold" weightStyle="Bold" weight="700" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%0A%2B55%0A</text>
+      <textColor>4294953984</textColor>
+      <textSize>18</textSize>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="C6D2A65F-94AE-E911-AC27-E0ACCB6BAD7E" controlTypeID="Panel" x="271" y="633" w="112" h="50" zOrder="9">
+      <color>4278229042</color>
+      <borderColor>4278235964</borderColor>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="C0B1FEB3-96AE-E911-AC27-E0ACCB6BAD7E" linkType="ltPageLink" isApplyIncludePage="False" title="Dashboard_Occupation">
+          <area shape="0" alt="" ID="{EE8377C3-45AE-E911-A430-28CFE94C6E8D}" coords="(0,0,112,50)"/>
+        </link>
+      </links>
+      <groupChildrenDescriptors>
+        <control controlID="52D3A65F-94AE-E911-AC27-E0ACCB6BAD7E" controlTypeID="Label" x="10" y="15" w="84" h="19" zOrder="0">
+          <font family="Damascus" displayName="Damascus+Light" postScript="DamascusLight" weightStyle="Light" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+          <text>Dashboard</text>
+          <textColor>4294967295</textColor>
+          <textSize>16</textSize>
+          <lineSpacing>0</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="B6D3A65F-94AE-E911-AC27-E0ACCB6BAD7E" controlTypeID="Border" x="0" y="0" w="112" h="50" zOrder="1">
+          <borderColor>4278235964</borderColor>
+          <alias>borderLayer</alias>
+        </control>
+      </groupChildrenDescriptors>
+      <thinkness>1</thinkness>
+    </control>
+    <control controlID="1EE4BC15-96AE-E911-AC27-E0ACCB6BAD7E" controlTypeID="TextArea" x="116" y="404" w="254" h="64" zOrder="10">
+      <opacity>0.800000011920929</opacity>
+      <font family="Rockwell" displayName="Rockwell" postScript="Rockwell-Regular" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%0AYou+have+received+%2B50+points+for+your+first+career+milestone.+%0A</text>
+      <textSize>12</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="5A626A1C-96AE-E911-AC27-E0ACCB6BAD7E" controlTypeID="TextArea" x="116" y="478" w="254" h="125" zOrder="11">
+      <opacity>0.800000011920929</opacity>
+      <font family="Rockwell" displayName="Rockwell" postScript="Rockwell-Regular" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%0AYou+have+chosen+an+occupation+that+has+experienced+substantial+wage+growth+in+the+past+5+years%2C+for+this+you+have+received+a+bonus+%2B10+points.+%0A%0AYour+location+suffers+from+a+higher+cost+of+living+relative+to+other+provinces%2C+for+that+you+lose+-5+points.</text>
+      <textSize>12</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="024E00CE-97AE-E911-AC27-E0ACCB6BAD7E" controlTypeID="PopupPanel" x="-74" y="62" w="46" h="46" zOrder="12">
+      <groupChildrenDescriptors>
+        <control controlID="7E4F00CE-97AE-E911-AC27-E0ACCB6BAD7E" controlTypeID="Panel" x="0" y="0" w="414" h="736" zOrder="0">
+          <locked>True</locked>
+          <color>1879048192</color>
+          <borderVisible>False</borderVisible>
+          <canMove>False</canMove>
+          <alias>background</alias>
+          <groupChildrenDescriptors>
+            <control controlID="A05000CE-97AE-E911-AC27-E0ACCB6BAD7E" controlTypeID="Border" x="0" y="0" w="414" h="736" zOrder="0">
+              <borderVisible>False</borderVisible>
+              <alias>borderLayer</alias>
+            </control>
+          </groupChildrenDescriptors>
+          <thinkness>1</thinkness>
+        </control>
+        <control controlID="725100CE-97AE-E911-AC27-E0ACCB6BAD7E" controlTypeID="PopupPanelContent" x="0" y="102" w="200" h="228" zOrder="1">
+          <color>16777215</color>
+          <alias>content</alias>
+          <groupChildrenDescriptors>
+            <control controlID="9E5200CE-97AE-E911-AC27-E0ACCB6BAD7E" controlTypeID="Menu" x="0" y="0" w="200" h="228" zOrder="0">
+              <borderColor>4293190884</borderColor>
+              <isCommentCom>True</isCommentCom>
+              <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+                <link targetPageID="EE3329A1-83AE-E911-AC27-E0ACCB6BAD7E" linkType="ltPageLink" isApplyIncludePage="False" title="Dashboard">
+                  <area shape="0" alt="" ID="{72FDC5BB-65AE-E911-AC27-E0ACCB6BAD7E}" coords="(0,0,200,25)"/>
+                </link>
+                <link targetPageID="4062C205-65AE-E911-AC27-E0ACCB6BAD7E" linkType="ltPageLink" isApplyIncludePage="False" title="Leaderboard">
+                  <area shape="0" alt="" ID="{5E0CC6BB-65AE-E911-AC27-E0ACCB6BAD7E}" coords="(0,25,200,50)"/>
+                </link>
+                <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="New+Life+Event">
+                  <area shape="0" alt="" ID="{300DC6BB-65AE-E911-AC27-E0ACCB6BAD7E}" coords="(0,50,200,75)"/>
+                </link>
+                <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Open+Saved+Table">
+                  <area shape="0" alt="" ID="{E40DC6BB-65AE-E911-AC27-E0ACCB6BAD7E}" coords="(0,75,200,100)"/>
+                </link>
+                <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="">
+                  <area shape="0" alt="" ID="{8E0EC6BB-65AE-E911-AC27-E0ACCB6BAD7E}" coords="(0,0,0,0)"/>
+                </link>
+                <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="---">
+                  <area shape="0" alt="" ID="{420FC6BB-65AE-E911-AC27-E0ACCB6BAD7E}" coords="(0,0,0,0)"/>
+                </link>
+                <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="View+Job+Experience">
+                  <area shape="0" alt="" ID="{EC0FC6BB-65AE-E911-AC27-E0ACCB6BAD7E}" coords="(0,102,200,127)"/>
+                </link>
+                <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="View+Education">
+                  <area shape="0" alt="" ID="{9610C6BB-65AE-E911-AC27-E0ACCB6BAD7E}" coords="(0,127,200,152)"/>
+                </link>
+                <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Budgeting">
+                  <area shape="0" alt="" ID="{4011C6BB-65AE-E911-AC27-E0ACCB6BAD7E}" coords="(0,152,200,177)"/>
+                </link>
+                <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="%3D">
+                  <area shape="0" alt="" ID="{F411C6BB-65AE-E911-AC27-E0ACCB6BAD7E}" coords="(0,0,0,0)"/>
+                </link>
+                <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="-Disabled+Item-">
+                  <area shape="0" alt="" ID="{503EF6EE-65AE-E911-AC27-E0ACCB6BAD7E}" coords="(0,178,200,203)"/>
+                </link>
+                <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Sign+Out">
+                  <area shape="0" alt="" ID="{E05CF997-97AE-E911-AC27-E0ACCB6BAD7E}" coords="(0,203,200,228)"/>
+                </link>
+              </links>
+              <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <text>Dashboard%0ALeaderboard%0ANew+Life+Event%0AOpen+Saved+Table%0A%0A---%0AView+Job+Experience%0AView+Education%0ABudgeting%0A%3D%0A-Disabled+Item-%0ASign+Out</text>
+              <textSize>14</textSize>
+              <lineSpacing>0</lineSpacing>
+              <selectedIndex>-1</selectedIndex>
+              <selectedColor>4291611852</selectedColor>
+              <separatorColor>4293190884</separatorColor>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294111986</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

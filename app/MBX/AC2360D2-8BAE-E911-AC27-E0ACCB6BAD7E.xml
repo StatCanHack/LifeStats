@@ -1,0 +1,30 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="AC2360D2-8BAE-E911-AC27-E0ACCB6BAD7E" platform="MtMobile" defaultW="414" defaultH="736" measureW="414" measureH="736" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="2">
+    <control controlID="A61ADC28-8CAE-E911-AC27-E0ACCB6BAD7E" controlTypeID="AvatarEx2" x="140" y="211" w="120" h="120" zOrder="0">
+      <borderVisible>False</borderVisible>
+      <avatarType>Doctor</avatarType>
+      <avatarColorStyle>asGray</avatarColorStyle>
+      <avatarShapeStyle>asCircle</avatarShapeStyle>
+      <icon>
+        <ID/>
+        <iconFontName>jdiconfontB</iconFontName>
+        <iconCode>59651</iconCode>
+      </icon>
+      <URL>B64512564078BE31571E4B8E32EDD2AD.svg</URL>
+    </control>
+    <control controlID="362C7B3D-8CAE-E911-AC27-E0ACCB6BAD7E" controlTypeID="Label" x="99" y="346" w="148" h="18" zOrder="1">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Province+of+Institution</text>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294111986</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

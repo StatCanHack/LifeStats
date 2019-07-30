@@ -1,0 +1,223 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="EAC33838-7EAE-E911-AC27-E0ACCB6BAD7E" platform="MtMobile" defaultW="414" defaultH="736" measureW="414" measureH="736" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="21">
+    <control controlID="B0C3034D-7EAE-E911-AC27-E0ACCB6BAD7E" controlTypeID="TextArea" x="11" y="342" w="372" h="92" zOrder="0">
+      <opacity>0.800000011920929</opacity>
+      <font family="Rockwell" displayName="Rockwell" postScript="Rockwell-Regular" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%0AHere+is+your+scorecard+from+this+life+event%3A</text>
+      <textSize>16</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="AA413309-7FAE-E911-AC27-E0ACCB6BAD7E" controlTypeID="TextArea" x="11" y="409" w="90" h="50" zOrder="1">
+      <opacity>0.800000011920929</opacity>
+      <font family="Rockwell" displayName="Rockwell" postScript="Rockwell-Regular" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%0ATuition%3A+</text>
+      <textColor>4278235964</textColor>
+      <textSize>16</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="5CA59879-7FAE-E911-AC27-E0ACCB6BAD7E" controlTypeID="TextArea" x="22" y="154" w="372" h="130" zOrder="2">
+      <opacity>0.800000011920929</opacity>
+      <font family="Rockwell" displayName="Rockwell" postScript="Rockwell-Regular" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%0ACongratulations%2C+Alex!+At+the+age+of+22+you+have+obtained+your+first+degree.+%0A%0AWe+recommend+you+take+the+time+now+to+view+potential+job%0Aprospects.%0A</text>
+      <textColor>4278235964</textColor>
+      <textSize>16</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="04BE42AF-7FAE-E911-AC27-E0ACCB6BAD7E" controlTypeID="Panel" x="0" y="0" w="414" h="102" zOrder="3">
+      <color>4278235964</color>
+      <borderVisible>False</borderVisible>
+      <groupChildrenDescriptors>
+        <control controlID="08BF42AF-7FAE-E911-AC27-E0ACCB6BAD7E" controlTypeID="StatusBar(IOS)" x="0" y="0" w="414" h="20" zOrder="0">
+          <color>4278235964</color>
+        </control>
+        <control controlID="DABF42AF-7FAE-E911-AC27-E0ACCB6BAD7E" controlTypeID="Image" x="169" y="24" w="77" h="72" zOrder="1">
+          <clipShapeType>SbEllipse</clipShapeType>
+          <URL>60196539E1D48442677CDD3CA82552A1.png</URL>
+        </control>
+        <control controlID="ACC042AF-7FAE-E911-AC27-E0ACCB6BAD7E" controlTypeID="Border" x="0" y="0" w="414" h="102" zOrder="2">
+          <borderVisible>False</borderVisible>
+          <alias>borderLayer</alias>
+        </control>
+      </groupChildrenDescriptors>
+      <thinkness>1</thinkness>
+    </control>
+    <control controlID="C01B51B4-7FAE-E911-AC27-E0ACCB6BAD7E" controlTypeID="Icon" x="20" y="51" w="28" h="28" zOrder="4">
+      <color>4294967295</color>
+      <interactiveData>
+        <entry title="">
+          <area shape="0" alt="" ID="{B2713100-98AE-E911-AC27-E0ACCB6BAD7E}" coords="(0,0,28,28)"/>
+          <events title="">
+            <event eventType="atClick" isChecked="True">
+              <behaviour title="" isChecked="True" isWait="False" isLoop="False" execMode="emParallel">
+                <target targetID="26D65F03-98AE-E911-AC27-E0ACCB6BAD7E" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Popup State Change" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="Value" value="2" varType="3" description=""/>
+                    <param name="AniType" value="0" varType="3" description=""/>
+                  </command>
+                </target>
+              </behaviour>
+            </event>
+          </events>
+        </entry>
+      </interactiveData>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62356</iconCode>
+      </icon>
+      <URL>F8C2434C2C958119B1E6150C97C501FA.svg</URL>
+    </control>
+    <control controlID="18E6451F-80AE-E911-AC27-E0ACCB6BAD7E" controlTypeID="TextArea" x="11" y="478" w="90" h="50" zOrder="5">
+      <opacity>0.800000011920929</opacity>
+      <font family="Rockwell" displayName="Rockwell" postScript="Rockwell-Regular" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%0AEducation%3A</text>
+      <textColor>4278235964</textColor>
+      <textSize>16</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="54B17C27-80AE-E911-AC27-E0ACCB6BAD7E" controlTypeID="TextArea" x="11" y="596" w="90" h="50" zOrder="6">
+      <opacity>0.800000011920929</opacity>
+      <font family="Rockwell" displayName="Rockwell+Bold" postScript="Rockwell-Bold" weightStyle="Bold" weight="700" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%0ATOTAL+POINTS%3A</text>
+      <textColor>4278235964</textColor>
+      <textSize>16</textSize>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="5E5F123E-80AE-E911-AC27-E0ACCB6BAD7E" controlTypeID="TextArea" x="111" y="488" w="254" h="64" zOrder="7">
+      <opacity>0.800000011920929</opacity>
+      <font family="Rockwell" displayName="Rockwell" postScript="Rockwell-Regular" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%0AYou+have+received+%2B75+points+for+a+major+educational+milestone.+</text>
+      <textSize>12</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="18886297-80AE-E911-AC27-E0ACCB6BAD7E" controlTypeID="TextArea" x="115" y="414" w="254" h="64" zOrder="8">
+      <opacity>0.800000011920929</opacity>
+      <font family="Rockwell" displayName="Rockwell" postScript="Rockwell-Regular" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%0AYour+decision+has+made+you+fall+into+debt%2C+for+this+you+will+lose+-50+points.+%0A%0A</text>
+      <textSize>12</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="F6A5F8AF-80AE-E911-AC27-E0ACCB6BAD7E" controlTypeID="TextArea" x="101" y="601" w="90" h="50" zOrder="9">
+      <opacity>0.800000011920929</opacity>
+      <font family="Rockwell" displayName="Rockwell+Bold" postScript="Rockwell-Bold" weightStyle="Bold" weight="700" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%0A%2B25</text>
+      <textColor>4294953984</textColor>
+      <textSize>18</textSize>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="14EBD077-82AE-E911-AC27-E0ACCB6BAD7E" controlTypeID="Panel" x="271" y="601" w="112" h="50" zOrder="10">
+      <color>4278229042</color>
+      <borderColor>4278235964</borderColor>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="EE3329A1-83AE-E911-AC27-E0ACCB6BAD7E" linkType="ltPageLink" isApplyIncludePage="False" title="Dashboard_Education">
+          <area shape="0" alt="" ID="{EE8377C3-45AE-E911-A430-28CFE94C6E8D}" coords="(0,0,112,50)"/>
+        </link>
+      </links>
+      <groupChildrenDescriptors>
+        <control controlID="B4EBD077-82AE-E911-AC27-E0ACCB6BAD7E" controlTypeID="Label" x="10" y="15" w="84" h="19" zOrder="0">
+          <font family="Damascus" displayName="Damascus+Light" postScript="DamascusLight" weightStyle="Light" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+          <text>Dashboard</text>
+          <textColor>4294967295</textColor>
+          <textSize>16</textSize>
+          <lineSpacing>0</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="36ECD077-82AE-E911-AC27-E0ACCB6BAD7E" controlTypeID="Border" x="0" y="0" w="112" h="50" zOrder="1">
+          <borderColor>4278235964</borderColor>
+          <alias>borderLayer</alias>
+        </control>
+      </groupChildrenDescriptors>
+      <thinkness>1</thinkness>
+    </control>
+    <control controlID="26D65F03-98AE-E911-AC27-E0ACCB6BAD7E" controlTypeID="PopupPanel" x="-73" y="45" w="46" h="46" zOrder="11">
+      <groupChildrenDescriptors>
+        <control controlID="1AD85F03-98AE-E911-AC27-E0ACCB6BAD7E" controlTypeID="Panel" x="0" y="0" w="414" h="736" zOrder="0">
+          <locked>True</locked>
+          <color>1879048192</color>
+          <borderVisible>False</borderVisible>
+          <canMove>False</canMove>
+          <alias>background</alias>
+          <groupChildrenDescriptors>
+            <control controlID="A6D85F03-98AE-E911-AC27-E0ACCB6BAD7E" controlTypeID="Border" x="0" y="0" w="414" h="736" zOrder="0">
+              <borderVisible>False</borderVisible>
+              <alias>borderLayer</alias>
+            </control>
+          </groupChildrenDescriptors>
+          <thinkness>1</thinkness>
+        </control>
+        <control controlID="28D95F03-98AE-E911-AC27-E0ACCB6BAD7E" controlTypeID="PopupPanelContent" x="0" y="102" w="200" h="202" zOrder="1">
+          <color>16777215</color>
+          <alias>content</alias>
+          <groupChildrenDescriptors>
+            <control controlID="AAD95F03-98AE-E911-AC27-E0ACCB6BAD7E" controlTypeID="Menu" x="0" y="0" w="200" h="202" zOrder="0">
+              <borderColor>4293190884</borderColor>
+              <isCommentCom>True</isCommentCom>
+              <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+                <link targetPageID="EE3329A1-83AE-E911-AC27-E0ACCB6BAD7E" linkType="ltPageLink" isApplyIncludePage="False" title="Dashboard">
+                  <area shape="0" alt="" ID="{72FDC5BB-65AE-E911-AC27-E0ACCB6BAD7E}" coords="(0,0,200,25)"/>
+                </link>
+                <link targetPageID="A8794E9F-97AE-E911-AC27-E0ACCB6BAD7E" linkType="ltPageLink" isApplyIncludePage="False" title="Leaderboard">
+                  <area shape="0" alt="" ID="{5E0CC6BB-65AE-E911-AC27-E0ACCB6BAD7E}" coords="(0,25,200,50)"/>
+                </link>
+                <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="New+Life+Event">
+                  <area shape="0" alt="" ID="{300DC6BB-65AE-E911-AC27-E0ACCB6BAD7E}" coords="(0,50,200,75)"/>
+                </link>
+                <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Open+Saved+Table">
+                  <area shape="0" alt="" ID="{E40DC6BB-65AE-E911-AC27-E0ACCB6BAD7E}" coords="(0,75,200,100)"/>
+                </link>
+                <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="">
+                  <area shape="0" alt="" ID="{8E0EC6BB-65AE-E911-AC27-E0ACCB6BAD7E}" coords="(0,0,0,0)"/>
+                </link>
+                <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="---">
+                  <area shape="0" alt="" ID="{420FC6BB-65AE-E911-AC27-E0ACCB6BAD7E}" coords="(0,0,0,0)"/>
+                </link>
+                <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="View+Job+Experience">
+                  <area shape="0" alt="" ID="{EC0FC6BB-65AE-E911-AC27-E0ACCB6BAD7E}" coords="(0,102,200,127)"/>
+                </link>
+                <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="View+Education">
+                  <area shape="0" alt="" ID="{9610C6BB-65AE-E911-AC27-E0ACCB6BAD7E}" coords="(0,127,200,152)"/>
+                </link>
+                <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Budgeting">
+                  <area shape="0" alt="" ID="{4011C6BB-65AE-E911-AC27-E0ACCB6BAD7E}" coords="(0,152,200,177)"/>
+                </link>
+                <link targetPageID="A605C70D-45AE-E911-A430-28CFE94C6E8D" linkType="ltPageLink" isApplyIncludePage="False" title="Sign+Out">
+                  <area shape="0" alt="" ID="{F411C6BB-65AE-E911-AC27-E0ACCB6BAD7E}" coords="(0,177,200,202)"/>
+                </link>
+              </links>
+              <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <text>Dashboard%0ALeaderboard%0ANew+Life+Event%0AOpen+Saved+Table%0A%0A---%0AView+Job+Experience%0AView+Education%0ABudgeting%0ASign+Out</text>
+              <textSize>14</textSize>
+              <lineSpacing>0</lineSpacing>
+              <selectedIndex>-1</selectedIndex>
+              <selectedColor>4291611852</selectedColor>
+              <separatorColor>4293190884</separatorColor>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294111986</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

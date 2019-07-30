@@ -1,0 +1,134 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="CA085C2D-28AE-E911-B7CA-28CFE94C6E8D" platform="MtMobile" defaultW="414" defaultH="736" measureW="414" measureH="736" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="17">
+    <control controlID="FCA1E3FB-29AE-E911-B7CA-28CFE94C6E8D" controlTypeID="StatusBar(IOS)" x="0" y="0" w="414" h="20" zOrder="0">
+      <color>4278235964</color>
+    </control>
+    <control controlID="DA6E0A66-2AAE-E911-B7CA-28CFE94C6E8D" controlTypeID="Image" x="100" y="76" w="216" h="216" zOrder="1">
+      <clipShapeType>SbEllipse</clipShapeType>
+      <URL>60196539E1D48442677CDD3CA82552A1.png</URL>
+    </control>
+    <control controlID="00695689-2CAE-E911-B7CA-28CFE94C6E8D" controlTypeID="Panel" x="79" y="398" w="255" h="117" zOrder="2">
+      <color>4278229042</color>
+      <borderColor>4278235964</borderColor>
+      <groupChildrenDescriptors>
+        <control controlID="14F4D8A3-2CAE-E911-B7CA-28CFE94C6E8D" controlTypeID="HSplitter" x="0" y="53" w="261" h="10" zOrder="0">
+          <isShow>False</isShow>
+        </control>
+        <control controlID="D2875689-2CAE-E911-B7CA-28CFE94C6E8D" controlTypeID="Border" x="0" y="0" w="255" h="117" zOrder="1">
+          <borderColor>4278235964</borderColor>
+          <alias>borderLayer</alias>
+        </control>
+      </groupChildrenDescriptors>
+      <thinkness>1</thinkness>
+    </control>
+    <control controlID="14BC9FA8-2FAE-E911-B7CA-28CFE94C6E8D" controlTypeID="Image" x="95" y="405" w="49" h="45" zOrder="3">
+      <clipShapeType>SbEllipse</clipShapeType>
+      <URL>8000B9089A608C8486674475BD2C3A8A.png</URL>
+    </control>
+    <control controlID="32E16169-32AE-E911-B7CA-28CFE94C6E8D" controlTypeID="Label" x="154" y="405" w="119" h="22" zOrder="4">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Monica+Robles</text>
+      <textColor>4294967295</textColor>
+      <textSize>18</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="1EF4CE98-32AE-E911-B7CA-28CFE94C6E8D" controlTypeID="Label" x="154" y="427" w="148" h="18" zOrder="5">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>mrobles39@yahoo.com</text>
+      <textColor>4294967295</textColor>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="62A8F05A-33AE-E911-B7CA-28CFE94C6E8D" controlTypeID="Icon" x="99" y="465" w="42" h="42" zOrder="6">
+      <icon>
+        <ID>CircledPlus.png</ID>
+        <iconFontName/>
+        <iconCode>-1</iconCode>
+      </icon>
+      <URL>CDB434462688306F01506B817082E141.png</URL>
+    </control>
+    <control controlID="BAE1A1DB-33AE-E911-B7CA-28CFE94C6E8D" controlTypeID="Label" x="151" y="475" w="152" h="22" zOrder="7">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="2ED6FC76-39AE-E911-B7CA-28CFE94C6E8D" linkType="ltPageLink" isApplyIncludePage="False" title="Log+In">
+          <area shape="0" alt="" ID="{22CE9424-3AAE-E911-B7CA-28CFE94C6E8D}" coords="(0,0,152,22)"/>
+        </link>
+      </links>
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Use+another+profile</text>
+      <textColor>4294967295</textColor>
+      <textSize>18</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="5CB6DE4F-34AE-E911-B7CA-28CFE94C6E8D" controlTypeID="Label" x="80" y="525" w="171" h="14" zOrder="8">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Sign+in+with+your+LifeStats+account.</text>
+      <textColor>4294967295</textColor>
+      <textSize>11</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="4ABB5AD1-34AE-E911-B7CA-28CFE94C6E8D" controlTypeID="Label" x="257" y="525" w="77" h="14" zOrder="9">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Need+any+help%3F</text>
+      <textColor>4294967295</textColor>
+      <textSize>11</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsUnderline]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="F0483934-38AE-E911-B7CA-28CFE94C6E8D" controlTypeID="Image" x="154" y="636" w="103" h="29" zOrder="10">
+      <URL>BD6CB4721104392633C6A507B2D4118A.png</URL>
+    </control>
+    <control controlID="36D5D0A1-38AE-E911-B7CA-28CFE94C6E8D" controlTypeID="Label" x="80" y="675" w="123" h="16" zOrder="11">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Terms+and+conditions</text>
+      <textColor>4294967295</textColor>
+      <textSize>13</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsUnderline]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="923B7AE5-38AE-E911-B7CA-28CFE94C6E8D" controlTypeID="Label" x="218" y="675" w="116" h="16" zOrder="12">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Privacy+and+cookies</text>
+      <textColor>4294967295</textColor>
+      <textSize>13</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsUnderline]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="72844A1E-39AE-E911-B7CA-28CFE94C6E8D" controlTypeID="Label" x="192" y="701" w="29" h="16" zOrder="13">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>1.0.0</text>
+      <textColor>4294967295</textColor>
+      <textSize>13</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="7EF89833-3CAE-E911-A430-28CFE94C6E8D" controlTypeID="Label" x="152" y="361" w="107" h="22" zOrder="14">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Sign+in+with...</text>
+      <textColor>4294967295</textColor>
+      <textSize>18</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4278235904</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>
