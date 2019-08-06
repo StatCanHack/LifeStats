@@ -1,7 +1,7 @@
 # LifeStats
 
 ## Running the Program
-Open file index.html
+Open index.html 
 
 OR
 
@@ -9,8 +9,7 @@ OR
 cd pathToFolder/
 python -m http.server 8000
 ```
-
-Click on link
+visit localhost:8000 on a modern browser
 
 ## Team Members
 * Daniela Angarita
