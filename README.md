@@ -1,7 +1,7 @@
 # LifeStats
 
 ## Running the Program
-Open file index.html
+Open index.html 
 
 OR
 
@@ -9,5 +9,11 @@ OR
 cd pathToFolder/
 python -m http.server 8000
 ```
+visit localhost:8000 on a modern browser
 
-Click on link
+## Team Members
+* Daniela Angarita
+* Kish Dubey
+* Saman Rudgar
+* Sharjeel Ali
+* Yuyuan Chen
