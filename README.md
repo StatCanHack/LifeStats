@@ -1,9 +1,9 @@
 # LifeStats
 
-## try it out!
-Our app is currently hosted here[https://lifestats-statcan.herokuapp.com/]
+## Check it out!
+Our app is currently hosted [here](https://lifestats-statcan.herokuapp.com/)
 
-## running the program locally
+## Running the program locally
 Open index.html 
 
 OR
